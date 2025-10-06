@@ -21,7 +21,7 @@ export const HeroSection = () => {
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-            Passionate final-year MCA student with decent skills in NodeJS ,ReactJS , MYSQL, and web
+          Driven and Technically Proficient MCA Postgraduate with decent skills in NodeJS ,ReactJS , MYSQL, and web
 development. Experienced in developing robust web applications and managing databases. A
 quick learner with excellent problem-solving abilities and a collaborative mindset, seeking an
 internship to contribute to impactful real-world projects while gaining hands-on industry

@@ -3,30 +3,30 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "Myntra Clone using Real Backend Technology",
-    description: "A beautiful landing page app using React and Tailwind.",
+    title: "Travel-Website",
+    description: "A travel website that provides information about various travel destinations, including popular attractions, accommodations, and travel tips.",
     image: "#",
-    tags: ["React", "TailwindCSS", "Node.js"],
+    tags: ["Reactjs", "TailwindCSS", "Node.js" ,"JavaScript"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/AnujNainwal69/Travel-Booksite",
   },
   {
     id: 2,
-    title: "Todo List App",
+    title: "Portfolio-Website",
     description:
-      "Enter your tasks and manage them efficiently with this Todo List App.",
+      "Hello ,Welcome! You are already viewing my portfolio website.",
     image: "#",
-    tags: ["JavaScript", "ReactJs"],
+    tags: ["JavaScript", "ReactJs" , "TailwindCSS"],
     demoUrl: "#",
     githubUrl: "#",
   },
   {
     id: 3,
-    title: "Portfolio Website",
+    title: "Weather-App",
     description:
-      "This is my personal portfolio website showcasing my skills and projects.",
+      "A weather application that provides real-time weather information for any location worldwide. It fetches data from a public weather API and displays current conditions, forecasts, and other relevant weather details.",
     image: "#",
-    tags: ["React", "Node.js"],
+    tags: ["React", "Tailwind CSS", "Application Program Interface(API"],
     demoUrl: "#",
     githubUrl: "#",
   }
